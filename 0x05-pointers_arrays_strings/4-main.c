@@ -10,6 +10,6 @@ int main(void)
 	char *str;
 
 	str = "I do not fear computers. I fear the lack of them - Isaac Asimov";
-	print_rev(str);
+	printf("%c\n", char);
 	return (0);
 }
